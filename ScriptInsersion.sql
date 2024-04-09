@@ -22,10 +22,10 @@ INSERT INTO Usuario(NickName, Contrasenia, TipoUsuarioId, Activo)
     VALUES ('Pedro', '87654', 2, 1);
 
 INSERT INTO Usuario(NickName, Contrasenia, TipoUsuarioId, Activo)
-    VALUES ('Laura', '54321', 2, 1);
+VALUES ('Laura', '54321', 2, 1);
 
 INSERT INTO Usuario(NickName, Contrasenia, TipoUsuarioId, Activo)
-    VALUES ('Carlos', '45678', 2, 1);
+VALUES ('Carlos', '45678', 2, 1);
 
 INSERT INTO Usuario(NickName, Contrasenia, TipoUsuarioId, Activo)
-    VALUES ('Ana', '10234', 2, 1);
+VALUES ('Ana', '10234', 2, 1);
